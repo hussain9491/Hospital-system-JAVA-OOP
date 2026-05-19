@@ -1,8 +1,13 @@
+
 # Hospital Patient & Staff Management System
 
 A simple **console-based Java** project for a university OOP assignment.
 
 ---
+- Group Project of OOP (2nd semester)
+- Members Hussain Ali (25bscs033)
+- Members Eman Tufail (25bscs016)
+- Members Maryam (25bscs038)
 
 ## 1. UML Class Diagrams
 
