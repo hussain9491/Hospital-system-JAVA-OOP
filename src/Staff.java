@@ -18,19 +18,29 @@ public abstract class Staff {
     }
 
     /** Returns staff ID */
-    public int getId() { return id; }
+    public int getId() { 
+        return id;
+         }
 
     /** Returns staff name */
-    public String getName() { return name; }
+    public String getName() {
+         return name;
+          }
 
     /** Returns department name */
-    public String getDepartment() { return department; }
+    public String getDepartment() { 
+        return department;
+     }
 
     /** Updates staff name */
-    public void setName(String name) { this.name = name; }
+    public void setName(String name) {
+         this.name = name;
+          }
 
     /** Updates department */
-    public void setDepartment(String department) { this.department = department; }
+    public void setDepartment(String department) { 
+        this.department = department;
+         }
 
     /**
      * Abstract method - each subclass (Doctor, Nurse) implements it differently.
